@@ -1,0 +1,30 @@
+{
+  "name": "regexpp",
+  "version": "0.10.19",
+  "description": "Streaming regex-based macro preprocessor (useful for DSLs or stream preprocessing)",
+  "main": "regexpp.js",
+  "scripts": {
+    "test": "TBD"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djulien/regexpp.git"
+  },
+  "keywords": [
+    "preprocessor",
+    "regex",
+    "regular",
+    "expression",
+    "Javascript",
+    "Node.js",
+    "DSL",
+    "stream",
+    "preprocessor"
+  ],
+  "author": "djulien",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/djulien/regexpp/issues"
+  },
+  "homepage": "https://github.com/djulien/regexpp#readme"
+}
